@@ -1,3 +1,5 @@
+const User = require('../models/usersModel')
+
 // login user controller
 
 const loginUser = async(req, res) => {
